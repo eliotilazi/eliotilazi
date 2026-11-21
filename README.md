@@ -2,30 +2,30 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
-Basé à Nyon (Suisse), je conçois et je fais aboutir des projets web concrets, de l'idée jusqu'à la mise en ligne, et j'apprends le développement en m'appuyant sur ces projets réels.
+Based in Nyon, Switzerland. I design and deliver real web projects, from the first idea to the live website, and I keep growing my development skills by building them.
 
-**Langues :** albanais, français, anglais
+**Languages:** Albanian, French, English
 
-## Projets
+## Projects
 
-### Configurateur 3D de mobilier sur mesure
-Outil en ligne qui permet à un client de dessiner sa pièce (dimensions, sol, meubles) et de la voir en 3D directement dans le navigateur.
-- Technologies : HTML, CSS, JavaScript, three.js (WebGL)
-- Mon rôle : cahier des charges, choix des matières et du rendu, tests sur différentes tailles de pièce, mise en ligne sur Cloudflare Pages
+### 3D custom furniture configurator
+An online tool that lets a client draw their room (dimensions, flooring, furniture) and see it in 3D directly in the browser.
+- Tech: HTML, CSS, JavaScript, three.js (WebGL)
+- My role: requirements, choice of materials and rendering, testing on different room sizes, deployment on Cloudflare Pages
 
-### Planificateur de tournées de transport
-Application web pour organiser les tournées de livraison d'une entreprise de transport (chauffeurs, véhicules, horaires).
-- Technologies : Python, base de données PostgreSQL (Neon), hébergement Render
-- Mon rôle : définition des besoins à partir de mon expérience dans le transport, tests, mise en production
+### Transport route planner
+A web application to organise the delivery routes of a transport company (drivers, vehicles, schedules).
+- Tech: Python, PostgreSQL database (Neon), hosted on Render
+- My role: defining the needs from my own experience in transport, testing, putting it into production
 
-### Pages web pour des indépendants
-Pages de présentation pour des professionnels (marketing digital, artisans).
-- Technologies : HTML, CSS, Cloudflare Pages / Workers
+### Websites for independent professionals
+Presentation pages for professionals (digital marketing, tradespeople).
+- Tech: HTML, CSS, Cloudflare Pages / Workers
 
-## Ce que j'apporte
-- Cinq ans d'expérience comme associé gérant dans le transport : relation client, gestion d'équipe, organisation
-- Capacité à transformer un besoin client en projet web concret
-- Apprentissage en cours : JavaScript, Python, SQL
+## What I bring
+- Five years of experience as managing partner in a transport company: client relations, team management, organisation
+- Turning a client's needs into a concrete web project
+- Currently learning: JavaScript, Python, SQL
 
 ## Contact
-Disponible pour des missions à distance.
+Available for remote work.
