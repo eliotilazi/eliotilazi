@@ -22,6 +22,11 @@ A web application to organise the delivery routes of a transport company (driver
 Presentation pages for professionals (digital marketing, tradespeople).
 - Tech: HTML, CSS, Cloudflare Pages / Workers
 
+## Education
+- HES-SO University of Applied Sciences and Arts Western Switzerland, 2021 to 2024
+- University of Geneva, 2020 to 2021
+- Gymnase de Nyon (upper secondary school), 2017 to 2020
+
 ## What I bring
 - Five years of experience as managing partner in a transport company: client relations, team management, organisation
 - Turning a client's needs into a concrete web project
