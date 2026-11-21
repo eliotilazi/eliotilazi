@@ -13,7 +13,7 @@ Outil en ligne qui permet à un client de dessiner sa pièce (dimensions, sol, m
 
 ### Planificateur de tournées de transport
 Application web pour organiser les tournées de livraison d'une entreprise de transport (chauffeurs, véhicules, horaires).
-- Technologies : application web, base de données PostgreSQL (Neon), hébergement Render
+- Technologies : Python, base de données PostgreSQL (Neon), hébergement Render
 - Mon rôle : définition des besoins à partir de mon expérience dans le transport, tests, mise en production
 
 ### Pages web pour des indépendants
@@ -23,7 +23,7 @@ Pages de présentation pour des professionnels (marketing digital, artisans).
 ## Ce que j'apporte
 - Cinq ans d'expérience comme associé gérant dans le transport : relation client, gestion d'équipe, organisation
 - Capacité à transformer un besoin client en projet web concret
-- Apprentissage en cours : JavaScript, SQL
+- Apprentissage en cours : JavaScript, Python, SQL
 
 ## Contact
 Disponible pour des missions à distance.
