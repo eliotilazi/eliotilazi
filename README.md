@@ -4,7 +4,7 @@
 
 Basé à Nyon (Suisse), je conçois et je fais aboutir des projets web concrets, de l'idée jusqu'à la mise en ligne, et j'apprends le développement en m'appuyant sur ces projets réels.
 
-**Langues :** français, albanais, anglais (conversation)
+**Langues :** albanais, français, anglais
 
 ## Projets
 
