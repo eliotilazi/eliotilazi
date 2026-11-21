@@ -2,7 +2,7 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
-Chef de projet web basé à Nyon (Suisse). Je conçois et je fais aboutir des projets web concrets, de l'idée jusqu'à la mise en ligne, et j'apprends le développement en m'appuyant sur ces projets réels.
+Basé à Nyon (Suisse), je conçois et je fais aboutir des projets web concrets, de l'idée jusqu'à la mise en ligne, et j'apprends le développement en m'appuyant sur ces projets réels.
 
 **Langues :** français, albanais, anglais (conversation)
 
