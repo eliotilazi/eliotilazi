@@ -23,6 +23,7 @@ Presentation pages for professionals (digital marketing, tradespeople).
 - Tech: HTML, CSS, Cloudflare Pages / Workers
 
 ## Education
+- BSc (Honours) Computing and IT, The Open University (distance learning), in progress, expected 2027
 - Compulsory schooling, Établissement secondaire de Nyon, 2004 to 2017
 
 ## What I bring
